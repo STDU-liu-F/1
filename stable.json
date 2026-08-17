@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "version": "2.2.2",
+  "published_at": "2026-08-16T08:30:28Z",
+  "release_url": "https://github.com/STDU-liu-F/1/releases/tag/v2.2.2",
+  "windows": {
+    "url": "https://github.com/STDU-liu-F/1/releases/download/v2.2.2/windows.zip",
+    "sha256": "2c49bff5199329ee9fe3649d4b81e2e3ce9ca0721966a4a36d7d6e6ccce78ff5",
+    "size_bytes": 22864181
+  },
+  "minimum_supported_version": "2.1.0",
+  "force_update": false
+}
